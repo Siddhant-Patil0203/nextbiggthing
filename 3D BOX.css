@@ -17,6 +17,7 @@
     position: absolute;
     transform-style: preserve-3d;
 }
+
 .boxes .box:nth-child(1) {
     transform: translate(100%, 0);
     -webkit-animation: box1 var(--duration) linear infinite;
